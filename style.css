@@ -118,6 +118,24 @@ body > :first-child {
     margin-top: 5rem;
 }
 
+#subscribe input {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-family: sans-serif;
+    background-color: transparent;
+    border: 1px solid darkgrey;
+    border-radius: 15px;
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    width: 90%;
+}
+
+#subscribe #bd-button {
+    width: 50%;
+    margin: auto;
+    background-color: #333333;
+    color: white;
+}
+
 .new-section {
     margin-top: 5rem;
 }
